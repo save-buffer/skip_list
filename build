@@ -1,0 +1,2 @@
+icc -std=c++17 -ggdb skip_list.cpp -o skip_list
+./skip_list
